@@ -72,6 +72,6 @@ origin이라는 이름과 본인레포주소가 맞는지, </br>upstream 이름�
 
 
 
-🧡 W. _**CORNER**_ - [김지민](https://github.com/jimin-ni)
-🧡 20240704_수정. _**CORNER**_ - [박유정](https://github.com/qkrdbwjd)
+🧡 W. _**CORNER**_ - [김지민](https://github.com/jimin-ni)</br>
+🧡 20240704_수정. _**CORNER**_ - [박유정](https://github.com/qkrdbwjd)</br>
 🧡 20240914_수정. _**CORNER**_ - [정지민](https://github.com/sunflwwer)
