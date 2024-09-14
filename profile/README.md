@@ -60,7 +60,7 @@ origin이라는 이름과 본인레포주소가 맞는지, </br>upstream 이름�
    </br></br></br></br>
 
 ### 🙃 그래도 아직 잘 모르겠다면, 
-[cocobird의 레포지토리](https://github.com/DS-Corner-Study/COCOBIRD/tree/main)와 [dongdong의 레포지토리](https://github.com/DS-Corner-Study-2024-SummerBreak/dongdong)를 구경하고 참고해주세요.
+[COCOBIRD의 레포지토리](https://github.com/DS-Corner-Study-2024/COCOBIRD/tree/main)를 참고해보세요!
 
 </br> </br> </br> </br>
 
