@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/de028d12-13c1-4df0-a76b-d08a066b4d75)
 
 # 🌟 환영합니다!  
-반갑습니다, **코너(CORNER)**입니다. 🙌  
+반갑습니다, **코너(CORNER)** 입니다. 🙌  
 2024년도 하반기 **리액트(React), 노드(Node.js), 스프링(Spring)** 스터디 기록을 위해 생성된 페이지입니다.
 
 ### 📋 본 활동의 목적은 다음과 같습니다:
